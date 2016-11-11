@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>
+Homework task 2 U1610029
+</title>
+</head>
+<body>
+<h1>
+My favorite movies
+</h1>
+<p>
+The God Father (I,II,III)
+<img src="C:\Users\Avazoff7\Desktop\H3\godfather.jpg" style="width:304px;height:228px;">
+<a href="  ">
+<br>
+<br>
+"1+1"
+<img src="mm.jpg" style="width:304px;height:228px;">
+<a href="  ">
+<br>
+<br>
+Fast and furios
+<img src="mm.jpg" style="width:304px;height:228px;">
+<a href="  ">
+<br>
+<br>
+8th mile
+<img src="mm.jpg" style="width:304px;height:228px;">
+<a href="  ">
+</p>
+
+<br>
+<br>
+Hobbies:<br>
+-playing football<br>
+-hanging out with friends<br>
+-watching films<br>
+-playing computer games
+
+<br>
+To know more about my favorite films you can click <a href="movies.html">
+
+20:20 09/11 201620:20 09/11 201620:20 09/11 201620:20 09/11 2016
+
+</body>
+</html>
